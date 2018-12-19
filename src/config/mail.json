@@ -1,0 +1,10 @@
+{
+    "host": "smtp.mailtrap.io",
+    "port": 2525,
+    "user": "",
+    "pass": "",
+    "template": {
+        "bem_vindo": "Olá <strong>{0}</strong>, seja bem vindo!",
+        "reset_pass": "Olá <strong>{0}</strong>, esqueceu sua senha? Use este token para resetar sua senha: <strong>{1}</strong>"
+    }
+}
